@@ -1,2 +1,2 @@
 
-You can read the blog post [Here](lesseverything.com/blog/nested-forms-in-phoenix/
+You can read the blog post [here.](lesseverything.com/blog/nested-forms-in-phoenix)
